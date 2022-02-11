@@ -25,7 +25,7 @@ The dataset I used for the Netflix data analytics task consists of my personal N
 **Requirements:** 
 Make sure you have Python 3.7+ installed on your computer. You can download the latest version of Python [here](https://www.python.org/downloads/). 
 
-**Req. Package:**
+**Req. Packages:**
 * pandas
 * dash
 * dash_bootstrap_components
