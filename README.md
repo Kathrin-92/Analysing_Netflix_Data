@@ -1,5 +1,7 @@
 # Project: Netflix Data Analysis and Visualization with Python
 
+![MyNetflixDashboard](https://user-images.githubusercontent.com/71875232/153602449-25155e7e-d225-4802-a351-3336cbed5793.png)
+
 ## Table of Contents
 1. [General Info](#General-Info)
 2. [Installation](#Installation)
@@ -33,6 +35,7 @@ Make sure you have Python 3.7+ installed on your computer. You can download the 
 
 ## Demo
 
+https://user-images.githubusercontent.com/71875232/153603229-acc3cb9f-ed70-4551-b808-0db1c5a05f68.mov
 
 
 ## Usage and Main Functionalities
@@ -55,6 +58,8 @@ Make sure you have Python 3.7+ installed on your computer. You can download the 
 * In addition, the top 10 series that were watched the longest (in terms of total duration) are displayed. 
 * A line chart shows Netflix viewing behavior over the years, counting the total number of hours Netflix was watched. 
 
+![NetflixOverTime](https://user-images.githubusercontent.com/71875232/153602731-3e378e2c-aef9-42f8-87b1-28bbbfd17406.png)
+
 #### 2. Dash App Layout
 * plotly's Dash is now used to create an Interactive Dashboard of Netflix data. 
 * The individual graphics and texts are arranged in rows and containers. 
@@ -64,6 +69,7 @@ Make sure you have Python 3.7+ installed on your computer. You can download the 
 * Here we connect an interactive bar chart to the Dash Components. 
 * The chart represents our total annual hours of Netflix watched, grouped by month. The chart is filterable by year. 
 
+![MonthlyViews](https://user-images.githubusercontent.com/71875232/153602668-b91f844f-7a03-46a9-a1da-c7a850433b98.png)
 
 
 ## Contributing 
